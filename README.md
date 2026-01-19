@@ -1,2 +1,2 @@
-# Zadacha_Kostenko_Bakalyna_Shakh
-Logic programing task"Wolf, sheep, cabage" repo
+# Задача: "Мисливець, вовк, коза, капуста"
+## Команда: Костенко Нікіта, Бакалина Анастасія, Шах Ярослав
